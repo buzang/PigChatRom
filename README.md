@@ -1,4 +1,4 @@
-# PigChatRom
+# PigChatRoom
 Java Spring Boot + React  小猪聊天室 Web前端课大作业
 
 前端地址：https://github.com/buzang/PigChatRomReact
